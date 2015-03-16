@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = '23.229.202.228';
 $db['default']['username'] = 'ctcmbc';
 $db['default']['password'] = 'ctcmBC001!';
 $db['default']['database'] = 'ctcmbc';

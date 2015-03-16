@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://markndennis.net/marknden/CTCMBCDEV/';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
