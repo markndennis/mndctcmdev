@@ -1,0 +1,6 @@
+</div>
+<div class="span7">
+<p>The purpose of the Safety Program Examinations is to determine if candidates have acquired the minimum entry-level competency in safety for practice as an Acupuncturist or an Herbalist to be considered for registration by the provincial regulatory body. The public is thus protected when receiving treatment from registered professionals. The examination(s) must be written by all candidates, including graduates from Canada and those completing their education outside of Canada.</p>
+<p>The Safety Program was developed with a team of consultants working with more than two dozen content experts and practitioners from the provinces of British Columbia and Ontario. Participants from both provinces spent significant hours in research and development. The assessment tools for testing in the mandatory safety course were validated by test-writing practitioners in both provinces.</p>
+<p>If you have any questions regarding the Safety Program Examination, please contact CTCMA at <a href="mailto:info@ctcma.bc.ca?subject=Safety Program Examination">info@ctcma.bc.ca</a>.</p>
+</div>
